@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 /**
  * SQL sublanguage: DDL (Data Definition Language)
- *
+ * 
  * The truncate keyword allows us to remove all records from a table but doesn't delete the table itself.
  *
  * The syntax for truncating a table:
